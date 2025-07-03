@@ -1,3 +1,10 @@
+
+
+<img width="1040" alt="image" src="https://github.com/user-attachments/assets/553ce3cc-4697-461f-b167-609a3f4fd7d3" />
+
+
+
+
 # PlotMint
 
 A modern, professional Python visualization library with 30+ pre-built plotting functions for data science and analytics. Built on top of matplotlib, seaborn, and pandas, PlotMint makes it easy to create beautiful, publication-ready charts with minimal code.
